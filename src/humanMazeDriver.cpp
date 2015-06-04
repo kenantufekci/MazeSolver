@@ -1,3 +1,9 @@
+/////////////////////////////////////////////////
+//Author: Kenan Tarik Tufekci
+//Date: 04-04-2014
+//Application: Maze Solver
+////////////////////////////////////////////////
+
 #include"maze.h"
 
 // Edit the code here to change maze file.
